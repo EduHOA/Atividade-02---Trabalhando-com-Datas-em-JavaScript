@@ -8,7 +8,11 @@ No código, a função Math.abs é usada para calcular o valor absoluto da difer
 O Date()construtor cria Dateobjetos. Quando chamado como uma função, retorna uma string representando a hora atual.
 
 O getHours()método das Dateinstâncias retorna as horas desta data de acordo com o horário local.
+
 O getMinutes()método das Dateinstâncias retorna os minutos desta data de acordo com a hora local.
+
 O getFullYear()método das Dateinstâncias retorna o ano desta data de acordo com a hora local.
+
 O getDate()método das Dateinstâncias retorna o dia do mês para esta data de acordo com o horário local.
+
 O getMonth()método das Dateinstâncias retorna o mês desta data de acordo com a hora local, como um valor baseado em zero (onde zero indica o primeiro mês do ano).
